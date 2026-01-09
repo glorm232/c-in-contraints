@@ -1,0 +1,6 @@
+INIT: first working artifact
+MOVE: motion / animation achieved
+SOUND: audible output exists
+BREAK: intentional breakage
+FIX: rebuild after break
+CLEAN: simplify without adding features
